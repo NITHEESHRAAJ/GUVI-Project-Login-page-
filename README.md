@@ -1,5 +1,4 @@
-# Database-connectivity-for-website-using-local
--server
+# Database connectivity for website using localserver
 ....
 
 Index.html is the home page
